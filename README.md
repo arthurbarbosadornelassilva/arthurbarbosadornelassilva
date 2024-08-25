@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá visitante, bem vindo ao meu perfil 👋 /  Hi there, welcome to my profile 👋
 
 <!--
 **arthurbarbosadornelassilva/arthurbarbosadornelassilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
